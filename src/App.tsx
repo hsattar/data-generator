@@ -1,6 +1,6 @@
-import { Typography } from "antd"
+import { Typography } from 'antd'
 
-export default function App() {
+export default function App () {
 
   const { Title } = Typography
 
